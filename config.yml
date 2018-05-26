@@ -1,0 +1,13 @@
+Settings:
+  Hologram:
+    damage:
+      text: false
+      item: false
+    hungry:
+      text: false
+      item: false
+  Title:
+    damage:
+      text: false
+    Hungry:
+      text: false

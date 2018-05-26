@@ -1,0 +1,16 @@
+name: PreMoreExpansion
+main: cn.gamemc.PreMoreExpansion.main.main
+version: 0.0.1
+author: ashStranger
+softdepend: [HolographicDisplays,ProtocolLib]
+commands:
+  morexhelp: 
+    description: "帮助"
+    usage: /morexhelp
+    permission: "moreexpansion.help"
+    permission-message: "§c无权使用此命令"
+  morexgive:
+    description: "给予"
+    usage: /morexgive
+    permission: "moreexpansion.give"
+    permission-message: "§c无权使用此命令" 
